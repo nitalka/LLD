@@ -1,0 +1,22 @@
+
+?
+java:S1643‹"Use a StringBuilder instead.(©½¾©üÿÿÿÿ8Ù¤ëØá/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(½½—âøÿÿÿÿ8€ìÌÚá/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Û‘€Ñá/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(›şş8æâ Öá/
+:
+java:S1643Œ"Use a StringBuilder instead.(²ßÎ8€ìÌÚá/
+c
+java:S1126x"AReplace this if-then-else statement by a single return statement.(×­Ëøÿÿÿÿ8²†·Ûá/
+z	java:S135C"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8áşáÖá/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(Ğ€ê—8å»¤ßá/
+?
+java:S1643“"Use a StringBuilder instead.(Å½«æùÿÿÿÿ8€ìÌÚá/
+?
+java:S1643"Use a StringBuilder instead.(çëŒ‡şÿÿÿÿ8€ìÌÚá/
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(àÔ”¾ùÿÿÿÿ8Ó¦¡Ûá/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(È£¾ˆÿÿÿÿÿ8êáªÛá/
+9
+java:S1643‚"Use a StringBuilder instead.(ê‡‹\8€ìÌÚá/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ÌŠ»úÿÿÿÿ8ËÆşĞá/
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(Éä‰Â8€ìÌÚá/
